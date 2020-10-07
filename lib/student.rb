@@ -10,5 +10,6 @@ class Student
   
   def self.create_table
     sql = <<-SQL 
+    CREATE 
   end 
 end
