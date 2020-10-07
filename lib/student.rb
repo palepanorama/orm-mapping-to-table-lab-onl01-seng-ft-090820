@@ -32,6 +32,4 @@ class Student
     VALUES (?, ?)
     SQL
   end 
-    
-  end 
 end 
